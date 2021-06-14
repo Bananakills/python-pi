@@ -1,2 +1,7 @@
 #!usr/bin/python3
-print ("Hello, World")
+
+def main(msg):
+	//yolo
+	print(msg)
+	
+main("Hello, World")
