@@ -1,7 +1,7 @@
 #!usr/bin/python3
 
 def main(msg):
-	//yolo
+	//yolo2
 	print(msg)
 	
 main("Hello, World")
