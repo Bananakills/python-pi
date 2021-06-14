@@ -1,7 +1,7 @@
 #!usr/bin/python3
 
 def main(msg):
-	//yolo
+	//dif com
 	print(msg)
 	
 main("Hello, World")
