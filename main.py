@@ -2,7 +2,6 @@
 
 def main(msg):
 	//yolo2
-	//dif comment
+	//dif commen
 	print(msg)
-	
 main("Hello, World")
